@@ -2,13 +2,13 @@
 
 <div align="right"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=binisalegend&theme=radical&hide_border=true&border_radius=20&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=binisalegend&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
+  <div style="flex: 0 1 auto; width: 49%;">
+    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=binisalegend&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   </div>
-  <div>
+  <div style="flex: 0 1 auto; width: 49%;">
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=binisalegend&theme=radical&hide_border=true&border_radius=20&locale=zh_Hans&date_format=M%20j[,%20Y]&mode=weekly&card_width=300" alt="GitHub Streak" />
+      <img style="width: 100%; height: auto;" src="https://streak-stats.demolab.com?user=binisalegend&theme=radical&hide_border=true&border_radius=20&locale=zh_Hans&date_format=M%20j[,%20Y]&mode=weekly&card_width=500" alt="GitHub Streak" />
     </a>
   </div>
 </div>
