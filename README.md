@@ -2,6 +2,7 @@
 
 <div align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=binisalegend&theme=radical&hide_border=true&border_radius=20&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
 
-![](https://raw.githubusercontent.com/binisalegend/binisalegend/main/assets/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/binisalegend/binisalegend/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/binisalegend/binisalegend/output/github-contribution-grid-snake.svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binisalegend)](https://github.com/ashutosh00710/github-readme-activity-graph)
